@@ -44,7 +44,7 @@ avatar: "/img/pp.jpg"
 
 navbar-col: "#346AB0"
 navbar-text-col: "#FFF"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#346AB0"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
